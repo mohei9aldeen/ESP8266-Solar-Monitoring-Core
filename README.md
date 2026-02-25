@@ -5,9 +5,6 @@ This project demonstrates a structured firmware architecture for a commercial-gr
 
 The system is designed for long-term stability in off-grid environments and includes power monitoring, web-based data visualization, and multi-device I2C management.
 
-<img width="2048" height="2048" alt="ate_meshpower_facebook_post_english_1" src="https://github.com/user-attachments/assets/05161b10-3d31-479e-9e5c-794af4cbaff6" />
-
-
  Key Features :
  =================
 * Real-time solar & battery status monitoring
