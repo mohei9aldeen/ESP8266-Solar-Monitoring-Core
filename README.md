@@ -44,6 +44,6 @@ Embedded Systems Engineer specializing in ESP8266/ESP32-based power and monitori
 
 Contact
 ==================
-WhatsApp : +963998467785
-Email : moheo993@gmail.com
+* WhatsApp : +963998467785
+* Email : moheo993@gmail.com
 
